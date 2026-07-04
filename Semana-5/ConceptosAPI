@@ -1,0 +1,5 @@
+Qué hace esta ruta?
+Esta ruta  recibe información enviada desde el cliente hacia el servidor. En este caso recibe un mensaje usando req.body.mensaje y responde con un objeto JSON indicando que el reporte fue recibido correctamente.
+
+¿Para qué podría servir en una aplicación comunitaria?
+Esta ruta podría servir para que las personas envíen reportes, avisos, sugerencias o mensajes comunitarios desde una página web hacia el servidor para mantener informada a la comunidad.

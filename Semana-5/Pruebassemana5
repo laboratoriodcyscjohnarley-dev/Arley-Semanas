@@ -1,0 +1,8 @@
+Ruta: http://localhost:3000
+Resultado: El servidor muestra el mensaje “Servidor activo”.
+
+Ruta: http://localhost:3000/saludo
+Resultado: El servidor responde con el mensaje “Hola comunidad”.
+
+Ruta: http://localhost:3000/mensaje/juan
+Resultado: El servidor muestra un saludo personalizado con el nombre enviado en la URL, en este caso “Hola juan”.
