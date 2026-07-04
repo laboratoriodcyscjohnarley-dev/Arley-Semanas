@@ -1,0 +1,15 @@
+.Concepto repositorio:
+ Un repositorio de Git es un espacio en el cual se pueden almacenar y organizar 
+los archivos y el historial de un proyecto, en el que se se registran todos los cambios. Además
+tambien permite que 1 o más personas puedan trbajar juntas y de manera ordenada.
+
+Concepto commit: 
+Es un registro o  una acción "guardado" de los distintos cambios que se han ejecutado en un
+ proyecto de manera permanente. Este lo acompaña un mensaje descriptivo explicando el porqué 
+ se modifico dicho proyecto.
+
+Concepto push: 
+Este comando se utiliza para enviar los  los diferentes commits que se hallan realizado en 
+un repositorio local hacía el remoto en git hub. Su funcion principal es sincronizar ambos
+trabajos(remoto y local) el cual permite que otros usuarios puean ver y descargas los cambios
+recientes del proyecto.

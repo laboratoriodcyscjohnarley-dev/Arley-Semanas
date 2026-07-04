@@ -1,0 +1,15 @@
+¿Por qué es importante que los proyectos de software mantengan
+ un registro de cambios usando herramientas como Git?
+
+ Respuesta: porqué así podran acceder cuando quieran hacia alguna version anterior de su proyecto.
+ Cuando tienes una idea te proyectas en ella y realizas un boceto, te gusta, pero... mmmm.... le 
+ falta algo, así que le addicionas algunas cosas y le quitas otras; el nuevo boceto esta bien, pero 
+ aún le falta algo, es así que lo vuelves a editar. Ahora tienes la que crees que es la mejor versión...
+ suspiras aliviado, pero detallas algo, y es que crees que sería perfecto incorporarle algo de las 
+ antiguas versiones, y es ahí justo ahí en donde sacas tus anteriores bocetos, los miras los analizas 
+ y cambias el actual incorporando un ajuste del primer boceto, ¿Lo hubieras podido hacer sin tener los bocetos
+ anteriores?. NO.
+ La misma importancia tienen todos los proyectos tecnologicos y por eso gracias a los diferentes softwares
+ podemos retroceder el tiempo, mirar, comparar los ajustes que se han quitado, lo que se ha añadido,etc. Ya que 
+ luego esto nos puede ser primordial para ver el avanze que llevamos o si tal vez necesitamos algo del 
+ pasado, eso es lo importante por que es un respaldo de tu proyecto.
