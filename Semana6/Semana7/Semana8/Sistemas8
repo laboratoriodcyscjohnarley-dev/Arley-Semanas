@@ -1,0 +1,15 @@
+Comando: uname -a
+
+Resultado obtenido:
+Linux codespaces-a12c4a 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Este comando muestra información del sistema operativo, la versión del kernel y la arquitectura del equipo.
+
+Comando: whoami
+
+Resultado obtenido:
+codespace
+
+Este comando muestra el nombre del usuario que está utilizando el sistema.
+
+Conocer esta información es útil cuando se administra un servidor porque permite identificar el entorno de trabajo, verificar el usuario activo y facilitar tareas de configuración, mantenimiento y solución de problemas.
